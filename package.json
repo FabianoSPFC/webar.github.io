@@ -1,0 +1,14 @@
+{
+	"name": "WebAR",
+	"version": "1.0.0",
+	"description": "",
+	"main": "server.js",
+	"scripts": {
+		"debug": "node server.js",
+		"start": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/FabianoSPFC/WebAR.git"
+	}
+}
